@@ -13,7 +13,7 @@ categories = {
     "Images":     [".jpg", ".jpeg", ".png", ".gif", ".heic", ".webp", ".bmp", ".svg"],
     "Documents":  [".pdf", ".doc", ".docx", ".txt", ".ppt", ".pptx", ".xls", ".xlsx", ".csv"],
     "Installers": [".exe", ".msi"],
-    "Archives":   [".zip", ".rar", ".7z"],
+    "Archives":   [".zip", ".rar", ".7z", ".gz"],
     "Videos":     [".mp4", ".mov", ".avi", ".mkv"],
     "Audio":      [".mp3", ".wav", ".m4a"],
 }

@@ -16,6 +16,7 @@ categories = {
     "Archives":   [".zip", ".rar", ".7z", ".gz"],
     "Videos":     [".mp4", ".mov", ".avi", ".mkv"],
     "Audio":      [".mp3", ".wav", ".m4a"],
+    "Code":       [".py", ".json"],
 }
 
 # Files still downloading - leave them alone
